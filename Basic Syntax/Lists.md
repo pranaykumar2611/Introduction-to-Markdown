@@ -48,7 +48,7 @@ To create an unordered list, add dashes(-), plus signs(+) or asteriks(*) in fron
 + Third item
 + Fourth item
 
-##* Nested list items
+## Nested list items
 To nest line items in an unordered list, indent the items four spaces or one tab.
 - First items
 - Second item
