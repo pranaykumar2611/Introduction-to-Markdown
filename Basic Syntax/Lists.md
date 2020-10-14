@@ -47,3 +47,28 @@ To create an unordered list, add dashes(-), plus signs(+) or asteriks(*) in fron
 + Second item
 + Third item
 + Fourth item
+
+##* Nested list items
+To nest line items in an unordered list, indent the items four spaces or one tab.
+- First items
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth items
+
+## Adding Elements in Lists
+To add another Elements in a list while preserving the continuity of the list, indent the Elements four spaces or one tab , as shown in the following examples
+
+###  Paragraphs
+
+* This is the first list item.
+* Here's the Second list item.
+    I need to add another Paragraphs below the Second list item.
+* And Here's the third list item.
+
+### Blockquotes
+* This is the first list item.
+* Here's the Second list item.
+    > I need to add another Paragraphs below the Second list item.
+* And Here's the third list item.
