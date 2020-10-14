@@ -63,7 +63,7 @@ To add another Elements in a list while preserving the continuity of the list, i
 ###  Paragraphs
 
 * This is the first list item.
-* Here's the Second list item.
+* Here's the Second list item.  
     I need to add another Paragraphs below the Second list item.
 * And Here's the third list item.
 
