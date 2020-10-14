@@ -17,4 +17,4 @@ It contain other Markdown formatted Elements.
 >
 > - Revenue  was off the chart.
 > - Profits were higher than ever.
-> *Everything* is going **well**.
+> - *Everything* is going **well**.
